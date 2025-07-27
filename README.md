@@ -19,7 +19,7 @@
 
     Frontend: React
 
-    Backend: AWS Lambda (Node.js), API Gateway (WebSocket + REST)
+    Backend: AWS Lambda (Node.js), API Gateway (WebSocket + REST), SNS, S3 BUCKET, DynamoDB
 
     Cloud Services: Amazon S3, Textract, DynamoDB
 
